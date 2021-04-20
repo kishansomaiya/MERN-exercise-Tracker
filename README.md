@@ -1,6 +1,6 @@
-#MERN Exercise Tracker
+# MERN Exercise Tracker
 
-##create new react app with:  npx create-react-app
+## create new react app with:  npx create-react-app
 
 in the backend folder run: npm init
 
