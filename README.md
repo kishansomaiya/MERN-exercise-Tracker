@@ -2,7 +2,7 @@
 
 ## create new react app with:  npx create-react-app
 
-in the backend folder run: npm init
+in the backend folder run: npm init    
 
 install related dependancies that are in package.json file in backend and src folder
 
