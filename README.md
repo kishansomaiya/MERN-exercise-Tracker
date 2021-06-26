@@ -1,1 +1,1 @@
-## Do "npm init" in your root directory and in backend folder before you run app.
+## Do "npm init" in backend folder aftet you create a react app.
